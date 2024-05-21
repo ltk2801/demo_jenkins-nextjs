@@ -1,10 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<<<<<<< HEAD
-## Getting Started test deploy
-=======
-## Getting Started test jenkins
->>>>>>> 0e872adcad903bb3657cacdcd2883272774d302f
+## Getting Started
 
 First, run the development server:
 
